@@ -17,9 +17,18 @@ For those reasons we do not update any themes without prior request.
 Using the [hooks](#hooks) feature is the best way to preserve changes.
 {: .notice--info}
 
+### How to look for theme version
+
+On the theme customizer click Info at the top on the right sidebar.
+
+![ThemeX Version](themex-version.png){: .align-right}
+
 ## Setup
 
+All settings are configurable via 
+
 ## Hooks
+
 Hooks are files included in certain parts of the theme. Their purpose is to insert or replace current parts of the theme.
 
 **Examples:**
@@ -30,16 +39,20 @@ Hooks are files included in certain parts of the theme. Their purpose is to inse
 > If you wanted to include something after the cart you would create:
 > `snippets/hook-product-after-cart-button.liquid`
 
-For a full list of hooks available click here
+For a full list of hooks available [click here](/hooks)
 
 ## Variables (Metadata)
 
+While all theme settings can be configured on the Customize theme 
 
 
 
 ## Facebook Pixel Conversion
 
 ### Prior Version 1.4 
+
+Do not forget to change XXXX to your own fb id.
+{: .notice--warning}
 
 {% raw %}
 ```html
