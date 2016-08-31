@@ -5,6 +5,16 @@ sitemap: false
 permalink: /
 ---
 
+## Updating
+
+Shopify doesn't offer any way to update themes yet, and while ThemeX is meant to be updateable there are a few points to consider:
+
+1. We need an API key setup with theme privileges in order to be able to update the theme for you. (You only need to provide this once)
+2. Any Changes made directly to the theme files will be overwritten once updated.
+
+For those reasons we do not update any themes without prior request. Using the [hooks](#hooks) Feature is the best way to preserve changes since those files will never be replaced by updates. 
+
+
 ## Setup
 
 ## Hooks
@@ -73,15 +83,6 @@ src="https://www.facebook.com/tr?id=xxxxxxxxxxx&ev=Purchase&cd[value]={{ checkou
 ```
 
 
-
-## Updating
-
-Shopify doesn't offer any way to update themes yet, and while ThemeX is meant to be updateable there are a few points to consider:
-
-1. We need an API key setup with theme privileges in order to be able to update the theme for you. (You only need to provide this once)
-2. Any Changes made directly to the theme files will be overwritten once updated.
-
-For those reasons we do not update any themes without prior request. Using the [hooks](#hooks) Feature is the best way to preserve changes since those files will never be replaced by updates. 
 
 
 
