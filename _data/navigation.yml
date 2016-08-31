@@ -33,29 +33,29 @@ home-sidebar:
 
 hooks-sidebar:
   - title: "Naming"
-    url: \#naming
+    url: /hooks/\#naming
   - title: Theme
-    url: \#theme
+    url: /hooks/\#theme
   - title: Product
-    url: \#product
+    url: /hooks/\#product
   - title: Collection
-    url: \#collection
+    url: /hooks/\#collection
   - title: "Product Grid Item"
-    url: \#product-grid-item
+    url: /hooks/\#product-grid-item
 
 variables-sidebar:
   - title: Introduction
-    url: \#introduction
+    url: /variables/\#introduction
   - title: General
-    url: \#general
+    url: /variables/\#general
   - title: Header Section
-    url: \#header-section 
+    url: /variables/\#header-section 
   - title: Footer Section
-    url: \#footer-section 
+    url: /variables/\#footer-section 
   - title: Collection Page
-    url: \#collection-page 
+    url: /variables/\#collection-page 
   - title: Product Page 
-    url: \#product-page
+    url: /variables/\#product-page
     chlidren:
       - title: Upsell
         url: \#upsell
