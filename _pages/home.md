@@ -10,22 +10,23 @@ sidebar:
 
 Shopify doesn't offer any way to update themes yet, and while ThemeX is meant to be updateable there are a few points to consider:
 
-1. We need a private App API key setup with **theme** privileges in order to be able to update the theme for you. (You only need to provide this once)
+1. We need a private App **API key** setup with **theme** privileges in order to be able to update the theme for you. (You only need to provide this once)
 2. Any Changes made directly to the theme files will be overwritten once updated.
 
-For those reasons we do not update any themes without prior request. 
-Using the [hooks](#hooks) feature is the best way to preserve changes.
+For those two reasons we do not update any themes without prior request. 
+Using the [hooks](#hooks) feature is the best way to preserve changes after updates.
 {: .notice--info}
+
+
+![ThemeX Version](images/themex-version.png){: .align-right}
 
 ### How to look for theme version
 
 On the theme customizer click Info at the top on the right sidebar.
 
-![ThemeX Version](images/themex-version.png){: .align-right}
 
-## Setup
 
-All settings are configurable globally via the theme customizer. For per product or per collection settings look at [variables](#variables-metadata).
+
 
 ## Hooks
 
@@ -41,15 +42,29 @@ Hooks are files included in certain parts of the theme. Their purpose is to inse
 
 For a full list of hooks available [click here](/hooks)
 
-## Variables (Metadata)
+## Variables (Metadata Custom Fields)
 
-While all theme settings can be configured on the Customize theme 
+While all theme settings can be configured on the theme Customizer to be able to use per product or per collection specific settings, metadata field settings are necessary.
+
+### Setting Priority
+
+1. Product Custom Fields
+2. Collection Custom Fields
+3. Theme Customizer Settings
+
+Meaning per product settings will always override collection and theme settings.
+
+### How to set 
 
 
+## Setup
 
-## Facebook Pixel Conversion
+All settings are configurable globally via the theme customizer. For per product or per collection settings look at [variables](#variables-metadata).
 
-### Prior Version 1.4 
+### Facebook Pixel Conversion
+
+Needed for versions 1.4 and older
+{: .notice--info}
 
 Do not forget to change XXXX to your own fb id.
 {: .notice--warning}
