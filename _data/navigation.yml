@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: /ThemeX/docs/quick-start-guide/
+  - title: "Hooks"
+    url: hooks
 
-  - title: "About"
-    url: /ThemeX/
+  - title: "Variables"
+    url: variables
