@@ -12,8 +12,8 @@ permalink: /
 ## Facebook Pixel Conversion
 ### Prior Version 1.4 
 
-```html
 {% raw %}
+```html
 <!-- Facebook Pixel Code -->
 {% if first_time_accessed %}
 <script>
@@ -46,8 +46,8 @@ src="https://www.facebook.com/tr?id=xxxxxxxxxxx&ev=Purchase&cd[value]={{ checkou
 /></noscript>
 {% endif %}
 <!-- End Facebook Pixel Code -->
-{% endraw %}
 ```
+{% endraw %}
 
 ### Hide Paypal Button on Checkout Page
 ```html
