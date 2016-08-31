@@ -39,7 +39,7 @@ Hooks are files included in certain parts of the theme. Their purpose is to inse
 > If you wanted to include something after the cart you would create:
 > `snippets/hook-product-after-cart-button.liquid`
 
-For a full list of hooks available [click here](/hooks)
+For a full list of hooks available [click here](/ThemeX/hooks)
 
 ## Variables (Metafields)
 
@@ -66,7 +66,7 @@ Once loaded just fill the fields and click save.
 
 ![Shopify FD MetaField Creation](images/shopifyfd-metafields.png)
 
-For a list of Variables available [click here](/variables).
+For a list of Variables available [click here](/ThemeX/variables).
 
 ## Setup
 
