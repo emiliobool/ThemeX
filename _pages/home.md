@@ -64,6 +64,8 @@ Once installed while still on Shopify click the shopify FD icon to load the tool
 
 Once loaded just fill the fields and click save.
 
+Namespace is always "**themex**".
+
 ![Shopify FD MetaField Creation](images/shopifyfd-metafields.png)
 
 For a list of Variables available [click here](/ThemeX/variables).

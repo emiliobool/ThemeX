@@ -4,15 +4,18 @@ layout: single
 sitemap: false
 permalink: /variables
 ---
-Variables in ~~*italic*~~ cant be overriden via custom fields.
+Variables in ~~*italic*~~ can't be overriden via custom fields.
 Color fields can't be overriden either in a per product basis, but that could change on future versions of the theme.
 
 Custom field types are:
-`Text` - Means any text can be used as value
-`Enable` - Means only Boolean values should be used as values. To ensure compatibility better stick to **1** and **0** only.
-`Number` - Means only numbers should be used as values.
-`Option` - Means only one of the options listed can be used as value.
 
+- `Text` - Means any text can be used as value
+- `Enable` - Means only Boolean values should be used as values. To ensure compatibility better stick to **1** and **0** only.
+- `Number` - Means only numbers should be used as values.
+- `Option` - Means only one of the options listed can be used as value.
+
+Namespace is always "**themex**".
+ 
 ## General
 - social_twitter_link `Text`
 - social_facebook_link `Text`
