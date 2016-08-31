@@ -16,9 +16,9 @@ Variables in *italic* cant be overriden via custom fields.
 - social_youtube_link `Text`
 - social_vimeo_link `Text`
 - social_fancy_link `Text`
-- ajax_cart_method `Option` options: `page` `drawer` `flip` `modal` default: `page`
-- ajax_search_enable `Enable`
-- breadcrumb_enable `Enable`
+- ajax_cart_method `Option` *options:* `page` `drawer` `flip` `modal` *default:* `page`
+- ajax_search_enable `Enable` *default:* `false`
+- breadcrumb_enable `Enable` *default:* `false`
 - *facebook_pixel_id*
 
 ## Header Section
