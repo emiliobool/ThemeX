@@ -215,8 +215,8 @@ defaults:
     values:
       author_profile: false
       layout: single
+      sitemap: false
 
 
 
 
-  
