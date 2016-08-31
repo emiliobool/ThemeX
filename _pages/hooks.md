@@ -4,11 +4,29 @@ layout: single
 sitemap: false
 permalink: /hooks
 ---
-## theme 
+## Naming
+Hook file naming follows:
+
+> hook-`template`-`rule`-`section`.liquid
+
+Where `template` is either of these: 
+- **[theme](#theme)**
+- **[product](#product)**
+- **[product-grid](#product-grid)**
+- **[collection](#collection)**
+
+Where `rule` is one of the following:
+- **before**
+- **replace**
+- **after**
+
+Where `section` is one of the sections shown on this page.
 
 ``Example: hook-theme-after-head.liquid``
 
-- head
+## theme 
+
+- head `hook-theme-before-head.liquid` `hook-theme-replace-head.liquid` `hook-theme-after-head.liquid`
 - body
     - header
     - inside-header
@@ -17,8 +35,6 @@ permalink: /hooks
         - bottom-footer
 
 ## product
-
-``Example: hook-product-after-cart-button.liquid``
 
 - images
     - image
@@ -29,6 +45,7 @@ permalink: /hooks
     - vendor
     - meta // prices and reviews badge
     - fields
+    - customizer
     - top-description
     - description
     - cart-button
@@ -49,6 +66,7 @@ permalink: /hooks
             - header
             - products
                 - product
+        - pagination
 
 
 ### product-grid-item
