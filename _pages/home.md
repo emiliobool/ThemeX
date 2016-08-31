@@ -18,12 +18,11 @@ Using the [hooks](#hooks) feature is the best way to preserve changes after upda
 {: .notice--info}
 
 
-![ThemeX Version](images/themex-version.png){: .align-right}
-
 ### How to look for theme version
 
 On the theme customizer click Info at the top on the right sidebar.
 
+![ThemeX Version](images/themex-version.png)
 
 
 
@@ -42,9 +41,9 @@ Hooks are files included in certain parts of the theme. Their purpose is to inse
 
 For a full list of hooks available [click here](/hooks)
 
-## Variables (Metadata Custom Fields)
+## Variables (Metafields)
 
-While all theme settings can be configured on the theme Customizer to be able to use per product or per collection specific settings, metadata field settings are necessary.
+While all theme settings can be configured on the theme Customizer to be able to use per product or per collection specific settings, metafields settings are necessary.
 
 ### Setting Priority
 
@@ -54,8 +53,19 @@ While all theme settings can be configured on the theme Customizer to be able to
 
 Meaning per product settings will always override collection and theme settings.
 
-### How to set 
+### How to set metafields
 
+First you need to install [Shopify FD](https://chrome.google.com/webstore/detail/shopifyfd-dashboard-tool/lffljkleilfpjlmcdnoaghhcbnemelge?hl=en)
+
+Shopify doesn't have any section to update metafields, for that reason installing a chrome extension is necessary.
+{: .notice--info}
+
+Once installed while still on Shopify click the shopify FD icon to load the tool. You will need to do this every time you refresh shopify.
+
+Once loaded just fill the fields and click save.
+![Shopify FD MetaField Creation](images/shopifyfd-metafields.png)
+
+For a list of Variables available [click here](/variables).
 
 ## Setup
 

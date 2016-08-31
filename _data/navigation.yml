@@ -20,7 +20,7 @@ home-sidebar:
     url: \#hooks   
          
   - title: "Variables"
-    url: \#variables-metadata
+    url: \#variables-metadata-custom-fields
     
   - title: "Setup"
     url: \#setup 
