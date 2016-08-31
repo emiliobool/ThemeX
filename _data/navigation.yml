@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Hooks"
-    url: hooks
+    url: /hooks
 
   - title: "Variables"
-    url: variables
+    url: /variables
