@@ -5,7 +5,9 @@ sitemap: false
 permalink: /hooks
 ---
 ## theme 
+
 ``Example: hook-theme-after-head.liquid``
+
 - head
 - body
     - header
@@ -15,7 +17,9 @@ permalink: /hooks
         - bottom-footer
 
 ## product
+
 ``Example: hook-product-after-cart-button.liquid``
+
 - images
     - image
     - thumbnails
@@ -36,6 +40,7 @@ permalink: /hooks
 - reviews
 
 ## collection
+
 - container
     - inside-container
         - sidebar
@@ -47,6 +52,7 @@ permalink: /hooks
 
 
 ### product-grid-item
+
 - container
     - image-container
         - image
