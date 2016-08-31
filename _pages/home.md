@@ -5,14 +5,14 @@ sitemap: false
 permalink: /
 ---
 
-# Setup
+## Setup
 
 
 
-### Facebook Pixel Conversion
-#### Prior Version 1.4 
+## Facebook Pixel Conversion
+### Prior Version 1.4 
 
-```
+```html
 <!-- Facebook Pixel Code -->
 {% if first_time_accessed %}
 <script>
@@ -48,7 +48,7 @@ src="https://www.facebook.com/tr?id=xxxxxxxxxxx&ev=Purchase&cd[value]={{ checkou
 ```
 
 ### Hide Paypal Button on Checkout Page
-```
+```html
 <script type="text/javascript">
 (function(fn){
     var d = document;
