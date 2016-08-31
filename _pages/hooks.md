@@ -15,7 +15,7 @@ Where `template` is either of these:
 
 - **[theme](#theme)**
 - **[product](#product)**
-- **[product-grid](#product-grid)**
+- **[product-grid-tem](#product-grid-item)**
 - **[collection](#collection)**
 
 Where `rule` is one of the following:
