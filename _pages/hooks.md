@@ -12,12 +12,14 @@ Hook file naming follows:
 > hook-`template`-`rule`-`section`.liquid
 
 Where `template` is either of these: 
+
 - **[theme](#theme)**
 - **[product](#product)**
 - **[product-grid](#product-grid)**
 - **[collection](#collection)**
 
 Where `rule` is one of the following:
+
 - **before**
 - **replace**
 - **after**
