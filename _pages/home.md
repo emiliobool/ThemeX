@@ -6,7 +6,6 @@ permalink: /
 sidebar:
   nav: "home-sidebar"
 ---
-
 ## Updating
 
 Shopify doesn't offer any way to update themes yet, and while ThemeX is meant to be updateable there are a few points to consider:

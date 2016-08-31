@@ -15,15 +15,15 @@ home-sidebar:
     
   - title: "Setup"
     url: \#setup   
-     
-  - title: "Hooks"
-    url: \#hooks   
-     
-  - title: "Variables"
-    url: \#variables-metadata
-     
-  - title: "Facebook Pixel"
-    url: \#facebook-pixel-conversion
     children: 
+      - title: "Hooks"
+        url: \#hooks   
+         
+      - title: "Variables"
+        url: \#variables-metadata
+         
+      - title: "Facebook Pixel"
+        url: \#facebook-pixel-conversion
+    
       - title: "Hide Paypal Button on Checkout"
         url: \#hide-paypal-button-on-checkout-page
