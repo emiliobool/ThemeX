@@ -8,3 +8,22 @@ main:
 
   - title: "Variables"
     url: /variables
+
+home-sidebar:
+  - title: "Updating"
+    url: \#updating
+    
+  - title: "Setup"
+    url: \#setup   
+     
+  - title: "Hooks"
+    url: \#hooks   
+     
+  - title: "Variables"
+    url: \#variables-metadata
+     
+  - title: "Facebook Pixel"
+    url: \#facebook-pixel-conversion
+    children: 
+      - title: "Hide Paypal Button on Checkout"
+        url: \#hide-paypal-button-on-checkout-page

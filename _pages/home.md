@@ -3,6 +3,8 @@ title: "Guide"
 layout: single
 sitemap: false
 permalink: /
+sidebar:
+  nav: "home-sidebar"
 ---
 
 ## Updating
