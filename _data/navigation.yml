@@ -14,7 +14,7 @@ home-sidebar:
     url: \#updating
     children:
       - title: "How to look for theme version"
-      - url: \#how-to-look-for-theme-version
+        url: \#how-to-look-for-theme-version
 
   - title: "Hooks"
     url: \#hooks   
