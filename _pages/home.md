@@ -1,7 +1,8 @@
 ---
-title: "Page Not Found"
+title: "Guide"
 layout: single
 sitemap: false
 permalink: /
 ---
 
+## Guide

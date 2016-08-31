@@ -214,3 +214,9 @@ defaults:
       type: posts
     values:
       author_profile: false
+      layout: single
+
+
+
+
+  
