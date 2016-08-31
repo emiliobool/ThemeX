@@ -3,6 +3,8 @@ title: "Hooks"
 layout: single
 sitemap: false
 permalink: /hooks
+sidebar:
+  nav: "hooks-sidebar"
 ---
 ## Naming
 Hook file naming follows:
@@ -69,7 +71,7 @@ Where `section` is one of the sections shown on this page.
         - pagination
 
 
-### product-grid-item
+## product-grid-item
 
 - container
     - image-container
@@ -80,4 +82,4 @@ Where `section` is one of the sections shown on this page.
         - sale
     - reviews
 
-## Cart
+

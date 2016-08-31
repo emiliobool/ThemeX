@@ -30,3 +30,34 @@ home-sidebar:
     
       - title: "Hide Paypal Button on Checkout"
         url: \#hide-paypal-button-on-checkout-page
+
+hooks-sidebar:
+  - title: "Naming"
+    url: \#naming
+  - title: Theme
+    url: \#theme
+  - title: Product
+    url: \#product
+  - title: Collection
+    url: \#collection
+  - title: "Product Grid Item"
+    url: \#product-grid-item
+
+variables-sidebar:
+  - title: Introduction
+    url: \#introduction
+  - title: General
+    url: \#general
+  - title: Header Section
+    url: \#header-section 
+  - title: Footer Section
+    url: \#footer-section 
+  - title: Collection Page
+    url: \#collection-page 
+  - title: Product Page 
+    url: \#product-page
+    chlidren:
+      - title: Upsell
+        url: \#upsell
+      - title: Timer
+        url: \#timer

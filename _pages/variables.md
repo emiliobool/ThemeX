@@ -3,7 +3,10 @@ title: "Variables"
 layout: single
 sitemap: false
 permalink: /variables
+sidebar:
+  nav: "variables-sidebar"
 ---
+## Introduction
 Variables in ~~*italic*~~ can't be overriden via custom fields.
 Color fields can't be overriden either in a per product basis, but that could change on future versions of the theme.
 
@@ -45,9 +48,6 @@ Namespace is always "**themex**".
 - footer_newsletter_enable `Enable`
 - footer_quicklinks_enable `Enable`
 - footer_legallinks_enable `Enable`
-
-
-## Home Page
 
 
 ## Collection Page
