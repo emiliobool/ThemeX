@@ -21,11 +21,11 @@ Using the [hooks](#hooks) feature is the best way to preserve changes.
 
 On the theme customizer click Info at the top on the right sidebar.
 
-![ThemeX Version](themex-version.png){: .align-right}
+![ThemeX Version](images/themex-version.png){: .align-right}
 
 ## Setup
 
-All settings are configurable via 
+All settings are configurable globally via the theme customizer. For per product or per collection settings look at [variables](#variables-metadata).
 
 ## Hooks
 

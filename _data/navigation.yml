@@ -12,16 +12,19 @@ main:
 home-sidebar:
   - title: "Updating"
     url: \#updating
+    children:
+      - title: "How to look for theme version"
+      - url: \#how-to-look-for-theme-version
+
+  - title: "Hooks"
+    url: \#hooks   
+         
+  - title: "Variables"
+    url: \#variables-metadata
     
   - title: "Setup"
-    url: \#setup   
-    children: 
-      - title: "Hooks"
-        url: \#hooks   
-         
-      - title: "Variables"
-        url: \#variables-metadata
-         
+    url: \#setup 
+    children:
       - title: "Facebook Pixel"
         url: \#facebook-pixel-conversion
     
