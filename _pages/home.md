@@ -55,7 +55,7 @@ Meaning per product settings will always override collection and theme settings.
 
 ### How to set metafields
 
-First you need to install [Shopify FD](https://chrome.google.com/webstore/detail/shopifyfd-dashboard-tool/lffljkleilfpjlmcdnoaghhcbnemelge?hl=en)
+First you need to install **[Shopify FD](https://chrome.google.com/webstore/detail/shopifyfd-dashboard-tool/lffljkleilfpjlmcdnoaghhcbnemelge?hl=en)**
 
 Shopify doesn't have any section to update metafields, for that reason installing a chrome extension is necessary.
 {: .notice--info}
@@ -63,6 +63,7 @@ Shopify doesn't have any section to update metafields, for that reason installin
 Once installed while still on Shopify click the shopify FD icon to load the tool. You will need to do this every time you refresh shopify.
 
 Once loaded just fill the fields and click save.
+
 ![Shopify FD MetaField Creation](images/shopifyfd-metafields.png)
 
 For a list of Variables available [click here](/variables).
