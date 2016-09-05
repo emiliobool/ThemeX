@@ -53,6 +53,10 @@ While all theme settings can be configured on the theme Customizer to be able to
 
 Meaning per product settings will always override collection and theme settings.
 
+### How to Change Add to Cart Button 
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QuI8cSnf7eA?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ### How to set metafields
 
 First you need to install **[Shopify FD](https://chrome.google.com/webstore/detail/shopifyfd-dashboard-tool/lffljkleilfpjlmcdnoaghhcbnemelge?hl=en)**
