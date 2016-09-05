@@ -43,6 +43,8 @@ For a full list of hooks available [click here](/ThemeX/hooks)
 
 ## Variables (Metafields)
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QuI8cSnf7eA?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 While all theme settings can be configured on the theme Customizer to be able to use per product or per collection specific settings, metafields settings are necessary.
 
 ### Setting Priority
@@ -53,9 +55,6 @@ While all theme settings can be configured on the theme Customizer to be able to
 
 Meaning per product settings will always override collection and theme settings.
 
-### How to Change Add to Cart Button 
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/QuI8cSnf7eA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### How to set metafields
 
