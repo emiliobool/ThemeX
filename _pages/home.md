@@ -74,6 +74,13 @@ For a list of Variables available [click here](/ThemeX/variables).
 
 All settings are configurable globally via the theme customizer. For per product or per collection settings look at [variables](#variables-metadata).
 
+
+### Skip Cart
+
+Note: Make sure the Cart is set to Page and not modal or any other option. 
+{: .notice--info}
+
+
 ### Facebook Pixel Conversion
 
 Needed for versions 1.4 and older
