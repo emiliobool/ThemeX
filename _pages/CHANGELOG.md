@@ -60,7 +60,7 @@ permalink: /changelog
 - force_ and override_ prefixes
 - Switch product variant when clicking preview
 
-## [1.0.1] - 2016-05-28
+## [1.0.1]
 
 ### Changed
 - Settings Schema
