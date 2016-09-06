@@ -9,6 +9,9 @@ main:
   - title: "Variables"
     url: /variables
 
+  - title: "Changelog"
+    url: /CHANGELOG
+
 home-sidebar:
   - title: "Updating"
     url: \#updating
