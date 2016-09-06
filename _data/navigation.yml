@@ -10,7 +10,7 @@ main:
     url: /variables
 
   - title: "Changelog"
-    url: /CHANGELOG
+    url: /changelog
 
 home-sidebar:
   - title: "Updating"

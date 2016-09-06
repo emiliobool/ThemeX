@@ -1,3 +1,11 @@
+---
+title: "Variables"
+layout: single
+sitemap: false
+permalink: /changelog
+
+---
+
 # Change Log
 ## [1.4.2]
 ### Changed
