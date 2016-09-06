@@ -1,12 +1,11 @@
 ---
-title: "Variables"
+title: "Change Log"
 layout: single
 sitemap: false
 permalink: /changelog
 
 ---
 
-# Change Log
 ## [1.4.2]
 ### Changed
 - Price Bug Fixed
