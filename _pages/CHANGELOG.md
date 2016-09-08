@@ -6,6 +6,14 @@ permalink: /changelog
 
 ---
 
+## [1.4.3]
+
+### Changed
+- Default cart type is "page" now
+- Header spacing fixed when having a non white background
+- Limespot recommendation app hidden on mobile
+- Customer Reviews space improved 
+
 ## [1.4.2]
 
 ### Changed
