@@ -47,6 +47,7 @@ Where `section` is one of the sections shown on this page.
 - product
     - title
     - vendor
+    - collection `v1.5`
     - meta // prices and reviews badge
     - fields
     - customizer

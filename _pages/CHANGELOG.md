@@ -6,6 +6,20 @@ permalink: /changelog
 
 ---
 
+## [1.5.0]
+
+### Added
+- Added option to move description to bottom on desktop
+- Added option to set a cookie on timer
+- Added Sidebar Multiple Options
+- Added Shop By Vendor Full List Option for Collection Sidebar
+- Added Shop By Vendor Current Collection Option for Collection Sidebar
+- Added Show Collection Option on Product Page
+- Added Product Description read more option
+
+### Changed
+- Fixed spacing when enabling product recommendations on the product page
+
 ## [1.4.3]
 
 ### Changed

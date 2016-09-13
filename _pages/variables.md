@@ -53,7 +53,10 @@ Namespace is always "**themex**".
 ## Collection Page
 
 - collection_prod_image_sizes `Option` Possible Values: `compact` `large`
-
+- collection_sidebar_filters `Option` Possible Values: `groups` `tags` `multiple`
+- collection_sidebar_show_groups `v1.5.0` `Enable`
+- collection_sidebar_show_vendor_full_list `v1.5.0` `Enable`
+- collection_sidebar_show_tags `v1.5.0` `Enable`
 
 ## Product Page
 
@@ -73,6 +76,7 @@ Namespace is always "**themex**".
 - product_skip_cart_enable `Enable`
 - product_description_enable `Enable` *default:* `true`
 - product_customizer_enable `Enable` *default:* `true`
+- product_description_bottom_enable `v1.5.0` `Enable`  *default:* `false`
 - social_sharing_products
 - product_price_compare_color `Color`
 - product_add_to_cart_text `Text`
@@ -89,6 +93,7 @@ Namespace is always "**themex**".
 ### Timer
 
 - product_timer_enable `Enable` *default:* `true`
+- product_timer_cookie_enable `v1.5.0` `Enable` *default:* `false`
 - product_timer_over_text_enable `Enable` *default:* `true`
 - product_timer_top_text_enable `Enable` *default:* `true`
 - product_progressbar_enable `Enable` *default:* `true`
