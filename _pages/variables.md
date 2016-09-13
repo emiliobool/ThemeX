@@ -61,6 +61,7 @@ Namespace is always "**themex**".
 ## Product Page
 
 - product_vendor_enable `Enable`
+- product_collection_enable `v1.5.0` `Enable`
 - product_quantity_message `Enable`
 - product_image_zoom_enable `Enable`
 - product_reviews_enable `Enable`
@@ -75,6 +76,7 @@ Namespace is always "**themex**".
 - product_show_saved_amount `Enable`
 - product_skip_cart_enable `Enable`
 - product_description_enable `Enable` *default:* `true`
+- product_description_read_more_enable `v1.5.0` `Enable` 
 - product_customizer_enable `Enable` *default:* `true`
 - product_description_bottom_enable `v1.5.0` `Enable`  *default:* `false`
 - social_sharing_products
