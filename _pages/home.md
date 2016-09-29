@@ -88,9 +88,6 @@ Note: Make sure the Cart is set to Page and not modal or any other option.
 
 ### Facebook Pixel Conversion
 
-Needed for versions 1.4 and older
-{: .notice--info}
-
 Do not forget to change XXXX to your own fb id.
 {: .notice--warning}
 

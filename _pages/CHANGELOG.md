@@ -5,6 +5,15 @@ sitemap: false
 permalink: /changelog
 
 ---
+## [1.6.0]
+
+### Added
+- Added Support for multi level menus
+
+### Changed
+- Removed fast click library that was causing issues with some chrome versions on android
+- Facebook Pixel Tracking now tracks content_ids on ViewContent, AddToCart and InitiateCheckout events
+- Fixed issue with new product customizer code
 
 ## [1.5.0]
 
