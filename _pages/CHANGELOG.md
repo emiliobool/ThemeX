@@ -6,6 +6,7 @@ permalink: /changelog
 
 ---
 ## [1.7.0]
+
 ### Added
 - Option to enable thumbnails on mobile
 - Option to use swatches instead of dropdown
