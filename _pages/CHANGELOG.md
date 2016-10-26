@@ -5,6 +5,15 @@ sitemap: false
 permalink: /changelog
 
 ---
+## [1.7.0]
+### Added
+- Option to enable thumbnails on mobile
+- Option to use swatches instead of dropdown
+- Option to hide powered by in footer
+- Option to hide product fields that have only one option
+- Option to show/hide payments badge on cart page
+- Option to show/hide secure badges on cart page
+
 ## [1.6.0]
 
 ### Added
