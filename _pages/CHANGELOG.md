@@ -14,6 +14,7 @@ permalink: /changelog
 - Option to hide product fields that have only one option
 - Option to show/hide payments badge on cart page
 - Option to show/hide secure badges on cart page
+- Option to hide paypal logo on cart page 
 
 ## [1.6.0]
 
