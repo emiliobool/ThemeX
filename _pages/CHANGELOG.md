@@ -7,6 +7,7 @@ permalink: /changelog
 ---
 
 ## [1.8.0]
+
 ### Added
 - Ability to add new badges to the product page
 - New trust badge without paypal
