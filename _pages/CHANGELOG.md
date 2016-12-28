@@ -5,6 +5,20 @@ sitemap: false
 permalink: /changelog
 
 ---
+
+## [1.8.0]
+### Added
+- Ability to add new badges to the product page
+- New trust badge without paypal
+- Badge with no paypal for cart page
+- Extra add to cart button
+- Support for multiple tracking pixels (separated by commas)
+
+### Changed
+- Fixed add to cart tracking issue when using the upsell popup
+- Fixed initiate checkout pixel issue
+- Fixed issue with hide "powered by"
+
 ## [1.7.0]
 
 ### Added
